@@ -75,7 +75,7 @@ console.log('-----ปริ้นทั้งหมด-----' + JSON.stringify(da
 function data_enter(sende_r, beacon_id) {
 
 
-   var checktime = "https://script.google.com/macros/s/AKfycbxyEYfhwMVgoLMcrhLgxv-u9WFS4jOJQVKosY-R/exec?userId="+sende_r+"&beaconid="+beacon_id;
+   var checktime = "https://script.google.com/macros/s/AKfycbxrGujmpHZjFFl_wY--V5g_lcXjaRRk46FtHKMH4W8H9kSYdsE/exec?userId="+sende_r+"&beaconid="+beacon_id;
  request(checktime, function (error, response, body) {
 
 })
