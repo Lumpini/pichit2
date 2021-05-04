@@ -151,7 +151,7 @@ var options = {
          }else if(beacon_id == "014d4f61a6"){
          var msg = {
            "type": "text",
-           "text": "เมืองทราบ"+" " +name +" " + "ว.10 ห้างทองแม่เอี่ยม"
+           "text": "เมืองทราบ"+" " +name +" " + "ว.10 ห้างทองแม่เลี่ยม"
           }; 
         reply(reToken, msg, sende_r, beacon_id);   
          }else if(beacon_id == "014d5624ac"){
